@@ -200,11 +200,10 @@ body.light .section-7 .footer i:hover{
 /* Mobile container utility class: */
 .container {
     width: 100%;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 1.5px;
+    margin-right: 1.5px;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
-    border: 1px solid #f54848;
   }
 
 
