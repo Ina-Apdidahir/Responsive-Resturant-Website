@@ -737,8 +737,6 @@ ol li:hover a
 {
     display: flex;
     flex-wrap: wrap;
-    max-width: clamp(400px 450px 500px);
-    min-height: 100vh;
     gap: 15px;
     margin: 10px;
 }
@@ -851,15 +849,7 @@ ol li:hover a
   text-decoration: line-through;
   filter: blur(2px);
 }
-.section-6 h2
-{
-    position: absolute;
-    top: 20%;
-    font-family: 'Delius', cursive;
-    color: #f4f4f4;
-    font-size: 40px;
-    font-weight: 700;
-}
+
 .Orders
 {
     display: flex;
