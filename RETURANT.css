@@ -486,7 +486,6 @@ ol li:hover a
 /*    SECTION 3 STARTS HERE    */
 .section-3
 {
-    min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -608,7 +607,6 @@ ol li:hover a
 .section-4 
 {
     width: 100%;
-    min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -722,7 +720,6 @@ ol li:hover a
 .section-5 
 {
     width: 100%;
-    min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -840,7 +837,6 @@ ol li:hover a
 .section-6 
 {
     width: 100%;
-    min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -917,7 +913,6 @@ ol li:hover a
 .section-7 
 {
     width: 100%;
-    min-height: 85vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1079,7 +1074,6 @@ ol li:hover a
     justify-content: space-between;
     align-items: center;
     border-top: 1px solid #f4f4f4;
-    min-height: 70px;
     padding: 10px 20px;
 }
 .bottom p{
